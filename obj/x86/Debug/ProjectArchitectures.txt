@@ -1,0 +1,1 @@
+E:\src\Prototype\microsoftAds\microsoftAds.csproj;x86
